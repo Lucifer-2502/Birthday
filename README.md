@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://github.com/Lucifer-2502/Birthday)
+[Demo](https://Lucifer-2502.github.io//Birthday)
 
 ## 🚀 How to Use
 
